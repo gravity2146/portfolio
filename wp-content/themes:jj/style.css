@@ -1,16 +1,3 @@
-/*
-	Theme Name: JJ
-	Theme URI:
-	Description:
-	Version: 1.4.3
-	Author: Todd Motto (@toddmotto)
-	Author URI: http://toddmotto.com
-	Tags: Blank, HTML5, CSS3
-
-	License: MIT
-	License URI: http://opensource.org/licenses/mit-license.php
-*/
-
 /*------------------------------------*\
     MAIN
 \*------------------------------------*/
@@ -22,7 +9,7 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
+  font-smooth: antialiased;
   text-rendering: optimizeLegibility;
 }
 /* html element 62.5% font-size for REM use */
